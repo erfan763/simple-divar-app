@@ -1,0 +1,132 @@
+{
+  "users": [
+    {
+      "email": "erfan@gmail.com",
+      "password": "$2a$10$XTMQrij/kUBBOi7yo0GZ8.vLLVW0tzSuz2iMgE0W4F5987.Wo0RUe",
+      "username": "admin",
+      "id": 1
+    }
+  ],
+  "notices": [
+    {
+      "title": "My Home",
+      "desc": "I want to sell my home because I want to buy bigger home ",
+      "phone": 9365833763,
+      "address": "ونک، میرداماد،روبروی بانک پاسارگاد ،ساختمان گروه امتیاز , طبقه دوم واحد 203",
+      "userId": 1,
+      "position": {
+        "lat": 51.50248826390815,
+        "lng": -0.05462802133011424
+      },
+      "id": 12
+    },
+    {
+      "title": "My Home",
+      "desc": "I want to sell my home because I want to buy bigger home ",
+      "phone": 9365833763,
+      "address": "ونک، میرداماد،روبروی بانک پاسارگاد ،ساختمان گروه امتیاز , طبقه دوم واحد 203",
+      "userId": 1,
+      "position": {
+        "lat": 51.50248826390815,
+        "lng": -0.05462802133011424
+      },
+      "id": 13
+    },
+    {
+      "title": "My Home",
+      "desc": "I want to sell my home because I want to buy bigger home ",
+      "phone": 9365833763,
+      "address": "ونک، میرداماد،روبروی بانک پاسارگاد ،ساختمان گروه امتیاز , طبقه دوم واحد 203",
+      "userId": 1,
+      "position": {
+        "lat": 51.50248826390815,
+        "lng": -0.05462802133011424
+      },
+      "id": 14
+    },
+    {
+      "title": "My Home",
+      "desc": "I want to sell my home because I want to buy bigger home ",
+      "phone": 9365833763,
+      "address": "ونک، میرداماد،روبروی بانک پاسارگاد ،ساختمان گروه امتیاز , طبقه دوم واحد 203",
+      "userId": 1,
+      "position": {
+        "lat": 51.50248826390815,
+        "lng": -0.05462802133011424
+      },
+      "id": 15
+    },
+    {
+      "title": "My Home",
+      "desc": "I want to sell my home because I want to buy bigger home ",
+      "phone": 9365833763,
+      "address": "ونک، میرداماد،روبروی بانک پاسارگاد ،ساختمان گروه امتیاز , طبقه دوم واحد 203",
+      "userId": 1,
+      "position": {
+        "lat": 51.50248826390815,
+        "lng": -0.05462802133011424
+      },
+      "id": 16
+    },
+    {
+      "title": "My Home",
+      "desc": "I want to sell my home because I want to buy bigger home ",
+      "phone": 9365833763,
+      "address": "ونک، میرداماد،روبروی بانک پاسارگاد ،ساختمان گروه امتیاز , طبقه دوم واحد 203",
+      "userId": 1,
+      "position": {
+        "lat": 51.50248826390815,
+        "lng": -0.05462802133011424
+      },
+      "id": 17
+    },
+    {
+      "title": "My Home",
+      "desc": "I want to sell my home because I want to buy bigger home ",
+      "phone": 9365833763,
+      "address": "ونک، میرداماد،روبروی بانک پاسارگاد ،ساختمان گروه امتیاز , طبقه دوم واحد 203",
+      "userId": 1,
+      "position": {
+        "lat": 51.50248826390815,
+        "lng": -0.05462802133011424
+      },
+      "id": 18
+    },
+    {
+      "title": "My Home",
+      "desc": "I want to sell my home because I want to buy bigger home ",
+      "phone": 9365833763,
+      "address": "ونک، میرداماد،روبروی بانک پاسارگاد ،ساختمان گروه امتیاز , طبقه دوم واحد 203",
+      "userId": 1,
+      "position": {
+        "lat": 51.50248826390815,
+        "lng": -0.05462802133011424
+      },
+      "id": 19
+    },
+    {
+      "title": "My Home",
+      "desc": "I want to sell my home because I want to buy bigger home ",
+      "phone": 9365833763,
+      "address": "ونک، میرداماد،روبروی بانک پاسارگاد ،ساختمان گروه امتیاز , طبقه دوم واحد 203",
+      "userId": 1,
+      "position": {
+        "lat": 51.50248826390815,
+        "lng": -0.05462802133011424
+      },
+      "id": 20
+    },
+    {
+      "title": "My Home",
+      "desc": "I want to sell my home because I want to buy bigger home ",
+      "phone": 9365833763,
+      "address": "ونک، میرداماد،روبروی بانک پاسارگاد ،ساختمان گروه امتیاز , طبقه دوم واحد 203",
+      "userId": 1,
+      "position": {
+        "lat": 51.50248826390815,
+        "lng": -0.05462802133011424
+      },
+      "id": 21
+    }
+  ]
+}
